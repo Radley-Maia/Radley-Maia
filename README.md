@@ -5,7 +5,7 @@
 
 ### Estudante de Sistemas para Internet | Desenvolvedor em formação
 
-**💻 Transformando ideias em código • Aprendendo e evoluindo todos os dias**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub%21;Transformando+ideias+em+c%C3%B3digo;Aprendendo+e+evoluindo+todos+os+dias" alt="Animação de apresentação" />
 
 [![Instagram](https://img.shields.io/badge/Instagram-Radley__Maia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Radley_Maia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radley_Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radley-maia-386806431/)
